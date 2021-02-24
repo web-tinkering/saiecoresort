@@ -1,0 +1,11 @@
+/* ################################################### navbar styling ######################################## */
+
+nav.container::before, nav.container::after{
+    content: "";
+    display: block;
+    height: 2rem;
+}
+
+.navbar-heading{
+    line-height: 10em;
+}

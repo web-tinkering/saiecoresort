@@ -1,0 +1,5 @@
+footer.container::before, footer.container::after{
+    content: "";
+    display: block;
+    height: 3rem;
+}
